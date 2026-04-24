@@ -1,0 +1,3 @@
+chromadb
+transformers
+python-telegram-bot
